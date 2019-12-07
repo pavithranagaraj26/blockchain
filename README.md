@@ -41,5 +41,3 @@ This github repository also contains 2 dashboards:
 4. You can access the blockchain frontend and blockchain client dashboards from your browser by going to localhost:5000 and localhost:8080
 
 
-
-# Visit my Blog : http://adilmoujahid.com# blockchain usecase
