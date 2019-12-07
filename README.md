@@ -30,6 +30,11 @@ This github repository also contains 2 dashboards:
 
 - Works with ```Python 3.6``` 
 - [Anaconda's Python distribution](https://www.continuum.io/downloads) contains all the dependencies for the code to run.
+- ```pip install pycryptodome ```
+- To check the `pycryptodome` use ```python -m Crypto.SelfTest```
+- ```sudo pip3 install -U flask-cors```
+- ```sudo pip install requests```
+
 
 # How to run the code
 
